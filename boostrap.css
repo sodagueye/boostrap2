@@ -15,10 +15,7 @@ body{
   background-image: linear-gradient(to right ,#a517ba ,#5f1782);  
   padding: 0 !important;
 }
-/* .image{
-    width: 30px;
-    height: 30px;
-}  */
+
 .navbar-nav li{
   padding: 0 10px;  
 }
